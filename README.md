@@ -74,7 +74,7 @@ Random SPI transactions are generated and transmitted from the Master to the Sla
 ├── SPI_interface.sv
 ├── testbench.sv
 ├── dump.vcd
-└── README.md
+├── README.md
 
 ## Conclusion
 
