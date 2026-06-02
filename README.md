@@ -68,7 +68,7 @@ Random SPI transactions are generated and transmitted from the Master to the Sla
 
 ## Project Structure
 
-├── SPI_master.sv
+SPI_master.sv
 ├── SPI_slave.sv
 ├── SPI_top.sv
 ├── SPI_interface.sv
